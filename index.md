@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# iQue-Mehrspieler-Kiste
+## iQue Multiplayer Box replacement
+### Why is this even a thing?
+Over the years getting the iQue Multiplayer (MP)  "Family Package" is getting harder and harder. Therefore, most iQue MP Boxes are expensive as are the specific controllers for it. This project aims to replace the MP box and use normal N64 jacks so the special controllers aren't needed.  
+Additionally the iQue Player natively has S-Video but it isn't made available with the normal cable or the MP box. This project makes this signal available and easy to use so you can enjoy the increased video quality. Note that composite video is also still supported.
 
-You can use the [editor on GitHub](https://github.com/TheHackerBoi-apk/iQue-Mehrspieler-Kiste/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact
+Discord server invite for this project https://discord.gg/62jfDuQ  
+Discord invite to iQueBrew Hacking Discord https://discord.gg/fu7McPv
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheHackerBoi-apk/iQue-Mehrspieler-Kiste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
